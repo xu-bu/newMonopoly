@@ -1,3 +1,5 @@
 import random
 
-print(random.randint(1,7))
+while True:
+    print(random.randint(1, 7))
+    input()
